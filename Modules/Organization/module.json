@@ -1,0 +1,12 @@
+{
+    "name": "Organization",
+    "alias": "organization",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Organization\\Providers\\OrganizationServiceProvider",
+        "Modules\\Organization\\Providers\\AuthServiceProvider"
+    ],
+    "files": []
+}
